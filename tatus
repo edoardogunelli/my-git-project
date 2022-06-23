@@ -1,0 +1,56 @@
+[33mcommit 06532781fbbd2f610aae8552f7ff6a849b787460[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: edoardogunelli <58426812+edoardogunelli@users.noreply.github.com>
+Date:   Thu Jun 23 17:00:21 2022 +0200
+
+    Added to main
+
+[33mcommit 1905a166f00f195ba9c6095042a9653d7b1028d4[m
+Author: edoardogunelli <58426812+edoardogunelli@users.noreply.github.com>
+Date:   Thu Jun 23 16:54:37 2022 +0200
+
+    Another code change
+
+[33mcommit d31251c65d3d35fe06f2b71ff085272d915f089f[m
+Merge: 1ce1175 66fcca4
+Author: edoardogunelli <58426812+edoardogunelli@users.noreply.github.com>
+Date:   Thu Jun 23 16:36:37 2022 +0200
+
+    Merge pull request #1 from edoardogunelli/another-feature
+    
+    Updated python code
+
+[33mcommit 66fcca405d6e25d75b1929bc58bf17942b67c637[m[33m ([m[1;31morigin/another-feature[m[33m)[m
+Author: edoardogunelli <eg.nelli@gmail.com>
+Date:   Thu Jun 23 16:32:33 2022 +0200
+
+    Updated python code
+
+[33mcommit 1ce117592d63898e20f895f470d50a829d52a6e6[m[33m ([m[1;32mreadme-styling[m[33m)[m
+Author: edoardogunelli <eg.nelli@gmail.com>
+Date:   Fri Jun 17 18:28:51 2022 +0200
+
+    Updated readme
+
+[33mcommit 3347ed900cb018b9edfb7214092f828318012fce[m
+Author: edoardogunelli <58426812+edoardogunelli@users.noreply.github.com>
+Date:   Fri Jun 17 18:02:14 2022 +0200
+
+    Updated python code
+
+[33mcommit 8cdb27da4f2236c2a4ce1a4f78ad6e18c174149d[m
+Author: edoardogunelli <eg.nelli@gmail.com>
+Date:   Thu Jun 2 19:35:53 2022 +0200
+
+    Initial commit
+
+[33mcommit 935c95b241d9dc7502b8497abc6f0614266171ba[m
+Author: edoardogunelli <eg.nelli@gmail.com>
+Date:   Wed Jun 1 09:29:53 2022 +0200
+
+    Initail commit
+
+[33mcommit e5488b454330123170593b663a0fec605e6fda5f[m
+Author: edoardogunelli <eg.nelli@gmail.com>
+Date:   Wed Jun 1 09:04:59 2022 +0200
+
+    first commit
