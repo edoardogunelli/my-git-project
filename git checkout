@@ -1,0 +1,137 @@
+[33mcommit 42e57d810f41445935d70d062dabc5bd4b5de44c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 47143bb 68b549d
+Author: edoardogunelli <eg.nelli@gmail.com>
+Date:   Fri Jun 24 09:58:34 2022 +0200
+
+    Fixed merge conflicts
+
+[33mcommit 47143bbb7b091253be24521e6a290803ca16527c[m
+Author: edoardogunelli <eg.nelli@gmail.com>
+Date:   Fri Jun 24 09:53:16 2022 +0200
+
+    Updated readme and python script
+
+[33mcommit 68b549d14d993b128edcdcd8c83dfc9897257b05[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: edoardogunelli <58426812+edoardogunelli@users.noreply.github.com>
+Date:   Fri Jun 24 09:51:23 2022 +0200
+
+    Update python function with merge for conflict
+
+[33mcommit a579b9794c9c72c630f25ca4a574845341e2cbbf[m
+Author: edoardogunelli <58426812+edoardogunelli@users.noreply.github.com>
+Date:   Fri Jun 24 09:48:46 2022 +0200
+
+    Updated readme for merge conflict demo
+
+[33mcommit cc495350518898aa8b4bf5bdd734fc9851062c1b[m
+Author: edoardogunelli <58426812+edoardogunelli@users.noreply.github.com>
+Date:   Fri Jun 24 09:47:16 2022 +0200
+
+    Upafa
+
+[33mcommit 947f840c4eab5da67498fd8a8876855a11560a33[m
+Author: edoardogunelli <58426812+edoardogunelli@users.noreply.github.com>
+Date:   Thu Jun 23 18:54:29 2022 +0200
+
+    Made changes for git pull/fetch demo
+
+[33mcommit 309279d51938b55ff7e4af1bab092dcd81f989cf[m
+Merge: 6472ada b1ed6cb
+Author: edoardogunelli <eg.nelli@gmail.com>
+Date:   Thu Jun 23 18:46:16 2022 +0200
+
+    new merge
+
+[33mcommit b1ed6cb57d90f7c317be91b9da09505b98f1c481[m
+Author: edoardogunelli <58426812+edoardogunelli@users.noreply.github.com>
+Date:   Thu Jun 23 17:58:34 2022 +0200
+
+    Made more changes for git pull/fetch demo
+
+[33mcommit 6472ada4f76cbfd704884f58c08004f029119716[m
+Merge: 3b92905 8679955
+Author: edoardogunelli <eg.nelli@gmail.com>
+Date:   Thu Jun 23 17:56:48 2022 +0200
+
+    madde chabges for git demo
+
+[33mcommit 8679955d0a374e775d75bfd9fc84bbb4e7268d6b[m
+Author: edoardogunelli <58426812+edoardogunelli@users.noreply.github.com>
+Date:   Thu Jun 23 17:53:39 2022 +0200
+
+    Made changes for git pull demo
+
+[33mcommit 38c82500937b012e6906602828d1412b6b4d652c[m
+Author: edoardogunelli <58426812+edoardogunelli@users.noreply.github.com>
+Date:   Thu Jun 23 17:10:08 2022 +0200
+
+    Update my_file.py
+
+[33mcommit 25cd8b6a4ece6c6e7a6994289b994fc26e760336[m
+Author: edoardogunelli <58426812+edoardogunelli@users.noreply.github.com>
+Date:   Thu Jun 23 17:07:03 2022 +0200
+
+    Added to main again
+
+[33mcommit 3b92905446884b82ce13b7e7631e5d2267fb7d52[m
+Author: edoardogunelli <eg.nelli@gmail.com>
+Date:   Thu Jun 23 17:05:23 2022 +0200
+
+    Updated python code for rebranching test
+
+[33mcommit 06532781fbbd2f610aae8552f7ff6a849b787460[m
+Author: edoardogunelli <58426812+edoardogunelli@users.noreply.github.com>
+Date:   Thu Jun 23 17:00:21 2022 +0200
+
+    Added to main
+
+[33mcommit 1905a166f00f195ba9c6095042a9653d7b1028d4[m
+Author: edoardogunelli <58426812+edoardogunelli@users.noreply.github.com>
+Date:   Thu Jun 23 16:54:37 2022 +0200
+
+    Another code change
+
+[33mcommit d31251c65d3d35fe06f2b71ff085272d915f089f[m
+Merge: 1ce1175 66fcca4
+Author: edoardogunelli <58426812+edoardogunelli@users.noreply.github.com>
+Date:   Thu Jun 23 16:36:37 2022 +0200
+
+    Merge pull request #1 from edoardogunelli/another-feature
+    
+    Updated python code
+
+[33mcommit 66fcca405d6e25d75b1929bc58bf17942b67c637[m[33m ([m[1;31morigin/another-feature[m[33m)[m
+Author: edoardogunelli <eg.nelli@gmail.com>
+Date:   Thu Jun 23 16:32:33 2022 +0200
+
+    Updated python code
+
+[33mcommit 1ce117592d63898e20f895f470d50a829d52a6e6[m[33m ([m[1;32mreadme-styling[m[33m)[m
+Author: edoardogunelli <eg.nelli@gmail.com>
+Date:   Fri Jun 17 18:28:51 2022 +0200
+
+    Updated readme
+
+[33mcommit 3347ed900cb018b9edfb7214092f828318012fce[m
+Author: edoardogunelli <58426812+edoardogunelli@users.noreply.github.com>
+Date:   Fri Jun 17 18:02:14 2022 +0200
+
+    Updated python code
+
+[33mcommit 8cdb27da4f2236c2a4ce1a4f78ad6e18c174149d[m
+Author: edoardogunelli <eg.nelli@gmail.com>
+Date:   Thu Jun 2 19:35:53 2022 +0200
+
+    Initial commit
+
+[33mcommit 935c95b241d9dc7502b8497abc6f0614266171ba[m
+Author: edoardogunelli <eg.nelli@gmail.com>
+Date:   Wed Jun 1 09:29:53 2022 +0200
+
+    Initail commit
+
+[33mcommit e5488b454330123170593b663a0fec605e6fda5f[m
+Author: edoardogunelli <eg.nelli@gmail.com>
+Date:   Wed Jun 1 09:04:59 2022 +0200
+
+    first commit
