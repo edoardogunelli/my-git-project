@@ -11,7 +11,5 @@ def: hi_there():
 
 print ("hi")
 
-=======
     
-    print ("hi")
->>>>>>> 8679955d0a374e775d75bfd9fc84bbb4e7268d6b
+    print ("Update python function with merge for conflict")
