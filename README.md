@@ -1,6 +1,6 @@
 ﻿# my-git-project
 
-> My code for my Git Project 
+> My scary merge conflict code 
 
 ## I'm in the feature branch 
 
