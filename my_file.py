@@ -6,12 +6,5 @@ def: hi_there():
     print ("hi")
 
     def: hi_there():
-    print ("hi")
-<<<<<<< HEAD
+    print ("Update python function with merge for conflict")
 
-print ("hi")
-
-=======
-    
-    print ("My local change")
->>>>>>> 8679955d0a374e775d75bfd9fc84bbb4e7268d6b
